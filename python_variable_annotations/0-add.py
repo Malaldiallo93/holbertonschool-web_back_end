@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" a type-annotated function """
+"""a type-annotated function add"""
 
 
 def add(a: float, b: float) -> float:
